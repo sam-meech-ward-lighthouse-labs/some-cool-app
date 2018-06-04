@@ -25,3 +25,12 @@ Which languages do browsers understand?
  * access elements directly
  * Insert new items
  * respond to events.
+
+ ## Links
+
+* https://sam-meech-ward-lighthouse-labs.github.io/some-cool-app/index.html
+* https://help.github.com/articles/quick-start-setting-up-a-custom-domain/
+* https://jekyllrb.com/
+* https://materializecss.com/getting-started.html
+
+https://github.com/meech-ward/Javascript-For-iOS-Developers
